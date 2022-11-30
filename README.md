@@ -1,4 +1,5 @@
 # hangman
 tdtp
 
-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
+
+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
